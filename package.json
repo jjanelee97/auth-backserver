@@ -4,7 +4,7 @@
     "cookie-parser": "^1.4.4",
     "eslint": "^5.12.1",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.4.0"
+    "jsonwebtoken": "^9.0.0"
   },
   "scripts": {
     "start": "node server.js"
